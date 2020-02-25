@@ -1,0 +1,13 @@
+.cell{
+    display: flex;
+    background-color: white;
+    box-shadow: inset 0 0 2px;
+}
+
+.food{
+    background-color: green;
+}
+
+.snake{
+    background-color: red;
+}

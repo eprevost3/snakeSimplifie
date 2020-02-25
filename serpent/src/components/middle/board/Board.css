@@ -1,0 +1,7 @@
+#board{
+    display: flex;
+    flex-grow: 3;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: green;
+}
