@@ -1,0 +1,16 @@
+#chooseNN{
+    display: flex;
+    flex : 1;
+    background-color: green;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#nn{
+    height: 20%;
+}
+
+#textSelect{
+    margin-bottom: 5%;
+}

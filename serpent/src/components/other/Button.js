@@ -7,6 +7,8 @@ const pathImages = {
     "fr" : require('../img/Fr_flag.jpg'),
     "us" : require('../img/US_flag.jpg'),
     "home" : require('../img/homepage.png'),
+    "play" : require("../img/play.png"),
+    "stop" : require("../img/stop.png")
 }
 
 const Button = ({id, image, alt, title = '', onClick = ()=>{} }) => {

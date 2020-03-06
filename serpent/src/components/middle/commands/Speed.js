@@ -1,5 +1,7 @@
 import React from 'react'
 import './Speed.css'
+import {connect} from 'react-redux'
+import translations from '../../lang/translations'
 
 // monitoring the speed
 class Speed extends React.Component{
@@ -21,8 +23,8 @@ class Speed extends React.Component{
 
     render(){
         return(
-            <div id="speed" title = "Slide to change animation speed">
-                <p>{"Speed = " + this.state.speed}</p>
+            <div id="speed" title = {translations[this.props.lang]["sliderTitle"]}>
+                <p>{translations[this.props.lang]["speed"] + this.state.speed}</p>
                 <input  id = "speedSlider"
                         type="range"
                         min="0.5"
@@ -36,5 +38,6 @@ class Speed extends React.Component{
     }
 }
 
+const mapStateToProps = (state) => {return({lang : state.lang})}
 
-export default Speed
+export default connect(mapStateToProps)(Speed)
