@@ -1,7 +1,6 @@
 #middle{
     display: flex;
     flex-grow: 20;
-    background-color: red;
     align-items: row;
 
 }

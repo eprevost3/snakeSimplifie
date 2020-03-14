@@ -15,7 +15,7 @@ const Header = ({lang, dispatch}) => {
 
     return(
         <div id="header">
-            <Button id='home' image = 'home' alt = 'Flag' title = {translations[lang].titleHome} onClick = {()=>{window.location.href ="./"}}/>
+            <Button id='home' image = 'home' alt = 'Flag' title = {translations[lang].titleHome} onClick = {()=>{window.location.href = 'https://eprevost3.github.io/homepage/'}}/>
             <div id="title">{translations[lang].welcome}</div>
             <Button id='lang' image = {translations[lang].image} alt = 'Flag' title = {translations[lang].titleFlag} onClick = {changeLang}/>
         </div>

@@ -20,7 +20,7 @@ class ChooseNeuralNet extends React.Component{
                 <div id = "textSelect">{translations[this.props.lang]["chooseNN"]}</div>
                 <select id="nn" onChange = {this.changeVal}>
                     <option value="underfitNN">{translations[this.props.lang].underfitNN}</option>
-                    <option value="regularNN">{translations[this.props.lang].regularNN}</option>
+                    <option value="regularNN" selected>{translations[this.props.lang].regularNN}</option>
                     <option value="overfitNN">{translations[this.props.lang].overfitNN}</option>
                 </select>
             </div>

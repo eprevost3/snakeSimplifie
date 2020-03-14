@@ -4,7 +4,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: blue;
+    background-color: rgba(50, 0, 120, 0.5);
 }
 
 #speedSlider{

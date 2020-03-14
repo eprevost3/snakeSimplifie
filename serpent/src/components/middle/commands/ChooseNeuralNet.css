@@ -1,7 +1,7 @@
 #chooseNN{
     display: flex;
     flex : 1;
-    background-color: green;
+    background-color: rgba(0, 0, 200, 0.3);
     flex-direction: column;
     justify-content: center;
     align-items: center;

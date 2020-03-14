@@ -4,5 +4,5 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-color: grey;
+    background-color: rgba(50, 50, 120, 0.3);
 }
