@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/eprevost3/snakeSimplifie.git/static/css/main.da2cbfdb.chunk.css",
-    "main.js": "/eprevost3/snakeSimplifie.git/static/js/main.028c5ab2.chunk.js",
-    "main.js.map": "/eprevost3/snakeSimplifie.git/static/js/main.028c5ab2.chunk.js.map",
-    "runtime-main.js": "/eprevost3/snakeSimplifie.git/static/js/runtime-main.752f2b95.js",
-    "runtime-main.js.map": "/eprevost3/snakeSimplifie.git/static/js/runtime-main.752f2b95.js.map",
-    "static/js/2.c461704f.chunk.js": "/eprevost3/snakeSimplifie.git/static/js/2.c461704f.chunk.js",
-    "static/js/2.c461704f.chunk.js.map": "/eprevost3/snakeSimplifie.git/static/js/2.c461704f.chunk.js.map",
-    "index.html": "/eprevost3/snakeSimplifie.git/index.html",
-    "precache-manifest.eff8980e77a861e22709dd225281ac14.js": "/eprevost3/snakeSimplifie.git/precache-manifest.eff8980e77a861e22709dd225281ac14.js",
-    "service-worker.js": "/eprevost3/snakeSimplifie.git/service-worker.js",
-    "static/css/main.da2cbfdb.chunk.css.map": "/eprevost3/snakeSimplifie.git/static/css/main.da2cbfdb.chunk.css.map",
-    "static/js/2.c461704f.chunk.js.LICENSE.txt": "/eprevost3/snakeSimplifie.git/static/js/2.c461704f.chunk.js.LICENSE.txt",
-    "static/media/US_flag.jpg": "/eprevost3/snakeSimplifie.git/static/media/US_flag.f22d0b17.jpg",
-    "static/media/App.css": "/eprevost3/snakeSimplifie.git/static/media/background.eeaa30ac.jpg",
-    "static/media/homepage.png": "/eprevost3/snakeSimplifie.git/static/media/homepage.4310b865.png",
-    "static/media/play.png": "/eprevost3/snakeSimplifie.git/static/media/play.f857eff1.png",
-    "static/media/stop.png": "/eprevost3/snakeSimplifie.git/static/media/stop.d0797a01.png"
+    "main.css": "/eprevost3/snakeSimplifie/static/css/main.f22e53da.chunk.css",
+    "main.js": "/eprevost3/snakeSimplifie/static/js/main.5acb44a5.chunk.js",
+    "main.js.map": "/eprevost3/snakeSimplifie/static/js/main.5acb44a5.chunk.js.map",
+    "runtime-main.js": "/eprevost3/snakeSimplifie/static/js/runtime-main.f1e8a10b.js",
+    "runtime-main.js.map": "/eprevost3/snakeSimplifie/static/js/runtime-main.f1e8a10b.js.map",
+    "static/js/2.c461704f.chunk.js": "/eprevost3/snakeSimplifie/static/js/2.c461704f.chunk.js",
+    "static/js/2.c461704f.chunk.js.map": "/eprevost3/snakeSimplifie/static/js/2.c461704f.chunk.js.map",
+    "index.html": "/eprevost3/snakeSimplifie/index.html",
+    "precache-manifest.83e7149c264471443222f9f4c5a1d582.js": "/eprevost3/snakeSimplifie/precache-manifest.83e7149c264471443222f9f4c5a1d582.js",
+    "service-worker.js": "/eprevost3/snakeSimplifie/service-worker.js",
+    "static/css/main.f22e53da.chunk.css.map": "/eprevost3/snakeSimplifie/static/css/main.f22e53da.chunk.css.map",
+    "static/js/2.c461704f.chunk.js.LICENSE.txt": "/eprevost3/snakeSimplifie/static/js/2.c461704f.chunk.js.LICENSE.txt",
+    "static/media/US_flag.jpg": "/eprevost3/snakeSimplifie/static/media/US_flag.f22d0b17.jpg",
+    "static/media/App.css": "/eprevost3/snakeSimplifie/static/media/background.eeaa30ac.jpg",
+    "static/media/homepage.png": "/eprevost3/snakeSimplifie/static/media/homepage.4310b865.png",
+    "static/media/play.png": "/eprevost3/snakeSimplifie/static/media/play.f857eff1.png",
+    "static/media/stop.png": "/eprevost3/snakeSimplifie/static/media/stop.d0797a01.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.752f2b95.js",
+    "static/js/runtime-main.f1e8a10b.js",
     "static/js/2.c461704f.chunk.js",
-    "static/css/main.da2cbfdb.chunk.css",
-    "static/js/main.028c5ab2.chunk.js"
+    "static/css/main.f22e53da.chunk.css",
+    "static/js/main.5acb44a5.chunk.js"
   ]
 }
