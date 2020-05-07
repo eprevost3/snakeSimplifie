@@ -247,7 +247,6 @@ class Middle extends React.Component{
     }
 
     moveSnake(){
-        console.log(dictNN[this.nn]);
         // erase last position of snake
         var toggleColor = this.refsCells[this.posSnake[0]][this.posSnake[1]]
         toggleColor("cell")

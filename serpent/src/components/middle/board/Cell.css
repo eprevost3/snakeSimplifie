@@ -5,9 +5,9 @@
 }
 
 .food{
-    background-color: green;
+    background-color: rgb(5, 94, 5);
 }
 
 .snake{
-    background-color: red;
+    background-color: rgba(134, 14, 14, 0.89);
 }
