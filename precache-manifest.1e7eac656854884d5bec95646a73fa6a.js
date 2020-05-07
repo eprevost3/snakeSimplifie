@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d28bc00e7a105eff70a0dc164d40503",
+    "revision": "33b8ad72f2c3748fe50332bf23b50301",
     "url": "/snakeSimplifie/index.html"
   },
   {
-    "revision": "f2f05de46e40d6cdd159",
-    "url": "/snakeSimplifie/static/css/main.8b86ff58.chunk.css"
+    "revision": "eba3c43e096228baf9aa",
+    "url": "/snakeSimplifie/static/css/main.874a86e8.chunk.css"
   },
   {
     "revision": "54b8b2c84e861c7e2c03",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/snakeSimplifie/static/js/2.c461704f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2f05de46e40d6cdd159",
-    "url": "/snakeSimplifie/static/js/main.f2fabe3d.chunk.js"
+    "revision": "eba3c43e096228baf9aa",
+    "url": "/snakeSimplifie/static/js/main.ee93e1b3.chunk.js"
   },
   {
     "revision": "c53fe36a4bee9ecc69e8",
