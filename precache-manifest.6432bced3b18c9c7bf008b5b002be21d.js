@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33b8ad72f2c3748fe50332bf23b50301",
+    "revision": "416a0a9a9a924ea080f9d766fcd2fe25",
     "url": "/snakeSimplifie/index.html"
   },
   {
-    "revision": "eba3c43e096228baf9aa",
-    "url": "/snakeSimplifie/static/css/main.874a86e8.chunk.css"
+    "revision": "5c3bbf321bfcc570cbc2",
+    "url": "/snakeSimplifie/static/css/main.d130e8cc.chunk.css"
   },
   {
-    "revision": "54b8b2c84e861c7e2c03",
-    "url": "/snakeSimplifie/static/js/2.c461704f.chunk.js"
+    "revision": "9babe7797ec09bfe1608",
+    "url": "/snakeSimplifie/static/js/2.04cced35.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/snakeSimplifie/static/js/2.c461704f.chunk.js.LICENSE.txt"
+    "url": "/snakeSimplifie/static/js/2.04cced35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eba3c43e096228baf9aa",
-    "url": "/snakeSimplifie/static/js/main.ee93e1b3.chunk.js"
+    "revision": "5c3bbf321bfcc570cbc2",
+    "url": "/snakeSimplifie/static/js/main.9ac1f4aa.chunk.js"
   },
   {
     "revision": "c53fe36a4bee9ecc69e8",
