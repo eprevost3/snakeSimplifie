@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/snakeSimplifie/static/css/main.d130e8cc.chunk.css",
+    "main.css": "/snakeSimplifie/static/css/main.a4bc4cf0.chunk.css",
     "main.js": "/snakeSimplifie/static/js/main.9ac1f4aa.chunk.js",
     "main.js.map": "/snakeSimplifie/static/js/main.9ac1f4aa.chunk.js.map",
     "runtime-main.js": "/snakeSimplifie/static/js/runtime-main.c2da69b6.js",
@@ -8,9 +8,9 @@
     "static/js/2.04cced35.chunk.js": "/snakeSimplifie/static/js/2.04cced35.chunk.js",
     "static/js/2.04cced35.chunk.js.map": "/snakeSimplifie/static/js/2.04cced35.chunk.js.map",
     "index.html": "/snakeSimplifie/index.html",
-    "precache-manifest.6432bced3b18c9c7bf008b5b002be21d.js": "/snakeSimplifie/precache-manifest.6432bced3b18c9c7bf008b5b002be21d.js",
+    "precache-manifest.c12b9fd3332318dec07b0e2ebfa4ff06.js": "/snakeSimplifie/precache-manifest.c12b9fd3332318dec07b0e2ebfa4ff06.js",
     "service-worker.js": "/snakeSimplifie/service-worker.js",
-    "static/css/main.d130e8cc.chunk.css.map": "/snakeSimplifie/static/css/main.d130e8cc.chunk.css.map",
+    "static/css/main.a4bc4cf0.chunk.css.map": "/snakeSimplifie/static/css/main.a4bc4cf0.chunk.css.map",
     "static/js/2.04cced35.chunk.js.LICENSE.txt": "/snakeSimplifie/static/js/2.04cced35.chunk.js.LICENSE.txt",
     "static/media/US_flag.jpg": "/snakeSimplifie/static/media/US_flag.f22d0b17.jpg",
     "static/media/App.css": "/snakeSimplifie/static/media/background.eeaa30ac.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2da69b6.js",
     "static/js/2.04cced35.chunk.js",
-    "static/css/main.d130e8cc.chunk.css",
+    "static/css/main.a4bc4cf0.chunk.css",
     "static/js/main.9ac1f4aa.chunk.js"
   ]
 }
