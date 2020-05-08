@@ -7,8 +7,8 @@ import translations from '../../lang/translations'
 const Buttons = (props) => {
     return(
         <div id = "buttons">
-            <Button id='play' image = {"play"} alt = 'Play' title = {translations[props.lang]["titleStart"]} onClick = {() => {props.start()}}/>
-            <Button id='stop' image = {"stop"} alt = 'Stop' title = {translations[props.lang]["titleStop"]} onClick = {() => {props.stop()}}/>
+            <Button id='play' image = {"play"} alt = 'Play' title = {translations[props.lang]["titleStart"]} onClick = {() => {props.start()}}  overWriteDefaultCss = {{height : '12vh', width : '12vh'}} />
+            <Button id='stop' image = {"stop"} alt = 'Stop' title = {translations[props.lang]["titleStop"]} onClick = {() => {props.stop()}}  overWriteDefaultCss = {{height : '12vh', width : '12vh'}}/>
         </div>
     )
 }
