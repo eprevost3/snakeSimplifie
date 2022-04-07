@@ -1,27 +1,18 @@
 {
   "files": {
-    "main.css": "/snakeSimplifie/static/css/main.a4bc4cf0.chunk.css",
-    "main.js": "/snakeSimplifie/static/js/main.9ac1f4aa.chunk.js",
-    "main.js.map": "/snakeSimplifie/static/js/main.9ac1f4aa.chunk.js.map",
-    "runtime-main.js": "/snakeSimplifie/static/js/runtime-main.c2da69b6.js",
-    "runtime-main.js.map": "/snakeSimplifie/static/js/runtime-main.c2da69b6.js.map",
-    "static/js/2.04cced35.chunk.js": "/snakeSimplifie/static/js/2.04cced35.chunk.js",
-    "static/js/2.04cced35.chunk.js.map": "/snakeSimplifie/static/js/2.04cced35.chunk.js.map",
+    "main.css": "/snakeSimplifie/static/css/main.a6505109.css",
+    "main.js": "/snakeSimplifie/static/js/main.85ad2cd8.js",
+    "static/media/background.jpg": "/snakeSimplifie/static/media/background.3af401c9e02143a78cac.jpg",
+    "static/media/homepage.png": "/snakeSimplifie/static/media/homepage.3acae9f82e6727ff9808.png",
+    "static/media/US_flag.jpg": "/snakeSimplifie/static/media/US_flag.590e4bf8ef2e629052ff.jpg",
+    "static/media/play.png": "/snakeSimplifie/static/media/play.1ccaa5ff469354419f45.png",
+    "static/media/stop.png": "/snakeSimplifie/static/media/stop.775ed8bdaec0ca4db750.png",
     "index.html": "/snakeSimplifie/index.html",
-    "precache-manifest.c12b9fd3332318dec07b0e2ebfa4ff06.js": "/snakeSimplifie/precache-manifest.c12b9fd3332318dec07b0e2ebfa4ff06.js",
-    "service-worker.js": "/snakeSimplifie/service-worker.js",
-    "static/css/main.a4bc4cf0.chunk.css.map": "/snakeSimplifie/static/css/main.a4bc4cf0.chunk.css.map",
-    "static/js/2.04cced35.chunk.js.LICENSE.txt": "/snakeSimplifie/static/js/2.04cced35.chunk.js.LICENSE.txt",
-    "static/media/US_flag.jpg": "/snakeSimplifie/static/media/US_flag.f22d0b17.jpg",
-    "static/media/App.css": "/snakeSimplifie/static/media/background.eeaa30ac.jpg",
-    "static/media/homepage.png": "/snakeSimplifie/static/media/homepage.4310b865.png",
-    "static/media/play.png": "/snakeSimplifie/static/media/play.f857eff1.png",
-    "static/media/stop.png": "/snakeSimplifie/static/media/stop.d0797a01.png"
+    "main.a6505109.css.map": "/snakeSimplifie/static/css/main.a6505109.css.map",
+    "main.85ad2cd8.js.map": "/snakeSimplifie/static/js/main.85ad2cd8.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2da69b6.js",
-    "static/js/2.04cced35.chunk.js",
-    "static/css/main.a4bc4cf0.chunk.css",
-    "static/js/main.9ac1f4aa.chunk.js"
+    "static/css/main.a6505109.css",
+    "static/js/main.85ad2cd8.js"
   ]
 }
